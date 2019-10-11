@@ -1,0 +1,21 @@
+/*
+ * nubia overwrite dts
+ */
+
+#include "sample.dtsi"
+#include "others.dtsi"
+#include "audio.dtsi"
+#include "../common/drop-qcom-camera.dtsi"
+#include "camera.dtsi"
+#include "camera-pinctrl.dtsi"
+#include "nfc.dtsi"
+#include "nubia-typec.dtsi"
+#include "neo-power.dtsi"
+#include "display.dtsi"
+#include "touch.dtsi"
+#include "finger.dtsi"
+#include "sensors.dtsi"
+#include "../common/nubia-msm8976-pm.dtsi"
+#include "../common/nubia-msm8976-pinctrl.dtsi"
+#include "../common/misc.dtsi"
+
